@@ -6,11 +6,9 @@ Made using C++. Project for "CS32: Introduction to Computer Science II" (course 
 Wrote the code in MyHash.h, Decrypter.cpp, Tokenizer.cpp, Translator.cpp, WordList.cpp and myTester.cpp
 The rest of the code was provided by the professor.
 
-A report describing the classes implemented is included, and present in the Decrypter folder gotten after
-unzipping Decrypter.zip. 
+A report describing the classes implemented is included, and present in the Decrypter folder 
 
-To run, unzip the Decrypter.zip file. Open the Decrypter folder, and open Project4.vcxproj using Visual Studio. 
-Select "Start Without Debugging" under the Debug dropdown menu. The code has been set up to decrypt an 
+The code has been set up to decrypt an 
 already provided ciphertext. Steps to decrypt any other ciphertext are provided below. 
 
 There are four example ciphertexts provided as the variables string1, ... , string4

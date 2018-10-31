@@ -1,0 +1,3 @@
+﻿  myTester.cpp
+c:\cs\cs32\project 4\project4\project4\mytester.cpp(111): warning C4018: '<': signed/unsigned mismatch
+  Project4.vcxproj -> C:\CS\CS32\Project 4\Project4\Debug\Project4.exe
